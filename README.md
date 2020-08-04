@@ -1,2 +1,2 @@
 # hello-world
-this is the word
+this is the world
